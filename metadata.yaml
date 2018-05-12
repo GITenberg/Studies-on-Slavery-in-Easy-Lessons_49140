@@ -1,4 +1,8 @@
 _repo: Studies-on-Slavery-in-Easy-Lessons_49140
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49140-h/images/cover.jpg
 creator:
   author:
     agent_name: Fletcher, John
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '45165'
     url: http://www.gutenberg.org/2009/agents/45165
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49140#Studies-on-Slavery-in-Easy-Lessons
 gutenberg_issued: '2015-06-05'
 gutenberg_type: Text
 identifiers:
